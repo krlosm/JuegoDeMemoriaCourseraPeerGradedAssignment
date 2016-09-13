@@ -5,6 +5,7 @@ Programa un playground que evalúe un rango de números en base a 4 reglas de im
 Generar un rango de 0 a 100, incluye el número 100 en el rango.
 Tienes que iterar el rango completo, utilizando la sentencia for para obtener cada número del rango y aplicar las siguientes reglas de impresión.
 Al evaluar cada número debes aplicar las siguientes reglas:
+
           - Si el número es divisible entre 5, imprime: # el número  + “Bingo!!!” 
 
           - Si el número es par, imprime: # el número + “par!!!”
